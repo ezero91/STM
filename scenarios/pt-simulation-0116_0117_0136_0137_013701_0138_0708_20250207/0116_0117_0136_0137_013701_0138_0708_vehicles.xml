@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vehicleDefinitions xmlns="http://www.matsim.org/files/dtd"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.matsim.org/files/dtd
+    http://www.matsim.org/files/dtd/vehicleDefinitions_v1.0.xsd">
+
+    <vehicleType id="carrinho">
+        <description>Micro-ônibus / Topic</description>
+        <capacity>
+            <seats persons="14"/>
+            <standingRoom persons="10"/>
+        </capacity>
+        <length meter="6.0"/>
+        <width meter="2.0"/>
+        <accessTime secondsPerPerson="1.5"/>
+        <egressTime secondsPerPerson="1.5"/>
+        <doorOperation mode="serial"/>
+        <passengerCarEquivalents pce="0.7"/>
+    </vehicleType>
+
+    <vehicleType id="etac">
+        <description>Ônibus pequeno</description>
+        <capacity>
+            <seats persons="28"/>
+            <standingRoom persons="22"/>
+        </capacity>
+        <length meter="9.0"/>
+        <width meter="2.5"/>
+        <accessTime secondsPerPerson="1.2"/>
+        <egressTime secondsPerPerson="1.2"/>
+        <doorOperation mode="serial"/>
+        <passengerCarEquivalents pce="1.0"/>
+    </vehicleType>
+
+    <vehicleType id="onibus">
+        <description>Ônibus padrão 12m</description>
+        <capacity>
+            <seats persons="38"/>
+            <standingRoom persons="50"/>
+        </capacity>
+        <length meter="12.0"/>
+        <width meter="2.5"/>
+        <accessTime secondsPerPerson="0.8"/>
+        <egressTime secondsPerPerson="0.8"/>
+        <doorOperation mode="parallel"/>
+        <passengerCarEquivalents pce="2.0"/>
+    </vehicleType>
+
+    <vehicleType id="stec">
+        <description>Ônibus Articulado (BRT)</description>
+        <capacity>
+            <seats persons="54"/>
+            <standingRoom persons="110"/>
+        </capacity>
+        <length meter="18.0"/>
+        <width meter="2.6"/>
+        <accessTime secondsPerPerson="0.5"/>
+        <egressTime secondsPerPerson="0.5"/>
+        <doorOperation mode="parallel"/>
+        <passengerCarEquivalents pce="3.0"/>
+    </vehicleType>
+
+    <vehicleType id="metro">
+        <description>Trem Metrô CCR Bahia</description>
+        <capacity>
+            <seats persons="300"/>
+            <standingRoom persons="600"/>
+        </capacity>
+        <length meter="55.0"/>
+        <width meter="3.0"/>
+        <accessTime secondsPerPerson="0.3"/>
+        <egressTime secondsPerPerson="0.3"/>
+        <doorOperation mode="parallel"/>
+        <passengerCarEquivalents pce="3.0"/>
+    </vehicleType>
+
+    <!-- VEHICLE INSTANCES -->
+    <vehicle id="21134" type="onibus"/>
+    <vehicle id="21196" type="onibus"/>
+    <vehicle id="21464" type="carrinho"/>
+    <vehicle id="20020" type="onibus"/>
+    <vehicle id="20518" type="onibus"/>
+    <vehicle id="21455" type="onibus"/>
+    <vehicle id="20698" type="onibus"/>
+    <vehicle id="21454" type="onibus"/>
+    <vehicle id="21124" type="onibus"/>
+    <vehicle id="21459" type="onibus"/>
+    <vehicle id="21386" type="onibus"/>
+    <vehicle id="21157" type="carrinho"/>
+    <vehicle id="20731" type="onibus"/>
+    <vehicle id="21137" type="onibus"/>
+    <vehicle id="21123" type="carrinho"/>
+    <vehicle id="21125" type="onibus"/>
+    <vehicle id="21439" type="onibus"/>
+    <vehicle id="20090" type="onibus"/>
+    <vehicle id="20416" type="onibus"/>
+    <vehicle id="21449" type="onibus"/>
+    <vehicle id="21129" type="carrinho"/>
+    <vehicle id="21475" type="onibus"/>
+    <vehicle id="21132" type="carrinho"/>
+    <vehicle id="21127" type="carrinho"/>
+    <vehicle id="21448" type="onibus"/>
+    <vehicle id="21181" type="onibus"/>
+    <vehicle id="21199" type="onibus"/>
+    <vehicle id="21463" type="onibus"/>
+    <vehicle id="21437" type="onibus"/>
+    <vehicle id="31052" type="onibus"/>
+    <vehicle id="30156" type="onibus"/>
+    <vehicle id="21461" type="onibus"/>
+    <vehicle id="21462" type="onibus"/>
+    <vehicle id="21170" type="onibus"/>
+    <vehicle id="21164" type="carrinho"/>
+    <vehicle id="21133" type="onibus"/>
+    <vehicle id="21441" type="onibus"/>
+    <vehicle id="20859" type="onibus"/>
+    <vehicle id="21165" type="carrinho"/>
+    <vehicle id="30970" type="onibus"/>
+    <vehicle id="21180" type="carrinho"/>
+    <vehicle id="30978" type="onibus"/>
+    <vehicle id="21003" type="onibus"/>
+    <vehicle id="21343" type="onibus"/>
+    <vehicle id="21158" type="onibus"/>
+    <vehicle id="21466" type="carrinho"/>
+    <vehicle id="21194" type="onibus"/>
+    <vehicle id="21177" type="carrinho"/>
+    <vehicle id="21378" type="onibus"/>
+    <vehicle id="20515" type="onibus"/>
+    <vehicle id="20552" type="onibus"/>
+    <vehicle id="21198" type="carrinho"/>
+    <vehicle id="20095" type="onibus"/>
+    <vehicle id="21340" type="onibus"/>
+    <vehicle id="21054" type="onibus"/>
+    <vehicle id="21438" type="carrinho"/>
+    <vehicle id="20126" type="onibus"/>
+    <vehicle id="21190" type="onibus"/>
+    <vehicle id="31015" type="onibus"/>
+    <vehicle id="21126" type="onibus"/>
+    <vehicle id="21452" type="onibus"/>
+    <vehicle id="21185" type="carrinho"/>
+    <vehicle id="20511" type="onibus"/>
+    <vehicle id="30979" type="onibus"/>
+    <vehicle id="21456" type="carrinho"/>
+    <vehicle id="21407" type="onibus"/>
+    <vehicle id="31034" type="onibus"/>
+    <vehicle id="21191" type="onibus"/>
+    <vehicle id="21228" type="onibus"/>
+    <vehicle id="21136" type="carrinho"/>
+    <vehicle id="20053" type="onibus"/>
+    <vehicle id="21307" type="onibus"/>
+    <vehicle id="20077" type="onibus"/>
+    <vehicle id="21347" type="onibus"/>
+    <vehicle id="21182" type="carrinho"/>
+    <vehicle id="31050" type="onibus"/>
+    <vehicle id="30080" type="onibus"/>
+    <vehicle id="30852" type="onibus"/>
+    <vehicle id="20064" type="onibus"/>
+
+</vehicleDefinitions>

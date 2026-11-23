@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE population SYSTEM "http://www.matsim.org/files/dtd/population_v6.dtd">
+<population>
+  <person id="card_06fedaabbb0e">
+    <attributes>
+      <attribute name="subpopulation" class="java.lang.String">non-student</attribute>
+    </attributes>
+    <plan selected="yes">
+      <activity type="home" link="98397" x="552409.8501960608" y="8563070.52153059" end_time="06:33:45" />
+      <leg mode="pt" />
+      <activity type="school" link="122154" x="553006.9384527929" y="8564650.438620724" />
+    </plan>
+  </person>
+  <person id="card_08dcc8edb641">
+    <attributes>
+      <attribute name="subpopulation" class="java.lang.String">non-student</attribute>
+    </attributes>
+    <plan selected="yes">
+      <activity type="home" link="110201" x="552981.9365050321" y="8563909.26444585" end_time="05:53:35" />
+      <leg mode="pt" />
+      <activity type="school" link="122154" x="553006.9384527929" y="8564650.438620724" />
+    </plan>
+  </person>
+  <person id="card_098df35e09f3">
+    <attributes>
+      <attribute name="subpopulation" class="java.lang.String">student</attribute>
+    </attributes>
+    <plan selected="yes">
+      <activity type="home" link="109399" x="551632.0572624833" y="8562818.760156749" end_time="06:03:29" />
+      <leg mode="pt" />
+      <activity type="school" link="122154" x="553006.9384527929" y="8564650.438620724" />
+    </plan>
+  </person>
+  <person id="card_0ef971bf053e">
+    <attributes>
+      <attribute name="subpopulation" class="java.lang.String">student</attribute>
+    </attributes>
+    <plan selected="yes">
+      <activity type="home" link="109438" x="552217.2625696688" y="8564266.775814017" end_time="06:47:33" />
+      <leg mode="pt" />
+      <activity type="school" link="38328" x="551864.1065329548" y="8563905.689213209" />
+    </plan>
+  </person>
+  <person id="card_1d0c49125e67">
+    <attributes>
+      <attribute name="subpopulation" class="java.lang.String">non-student</attribute>
+    </attributes>
+    <plan selected="yes">
+      <activity type="home" link="99731" x="551488.8277171565" y="8561880.793736126" end_time="06:22:10" />
+      <leg mode="pt" />
+      <activity type="school" link="122154" x="553006.9384527929" y="8564650.438620724" />
+    </plan>
+  </person>
+  <person id="card_1d9227f8c687">
+    <attributes>
+      <attribute name="subpopulation" class="java.lang.String">student</attribute>
+    </attributes>
+    <plan selected="yes">
+      <activity type="home" link="129047" x="553579.8441434391" y="8562897.8420925" end_time="06:55:29" />
+      <leg mode="pt" />
+      <activity type="school" link="122154" x="553006.9384527929" y="8564650.438620724" />
+    </plan>
+  </person>
+  <person id="card_1f9afe242451">
+    <attributes>
+      <attribute name="subpopulation" class="java.lang.String">student</attribute>
+    </attributes>
+    <plan selected="yes">
+      <activity type="home" link="125581" x="552285.8228572066" y="8562238.516301017" end_time="05:52:39" />
+      <leg mode="pt" />
+      <activity type="school" link="17740" x="552940.6704331413" y="8563747.662556956" />
+    </plan>
+  </person>
+  <person id="card_20fdc28b5703">
+    <attributes>
+      <attribute name="subpopulation" class="java.lang.String">student</attribute>
+    </attributes>
+    <plan selected="yes">
+      <activity type="home" link="155530" x="551178.7596922982" y="8562203.888211435" end_time="05:40:44" />
+      <leg mode="pt" />
+      <activity type="school" link="11031" x="550987.1721484323" y="8562397.774398392" />
+    </plan>
+  </person>
+  <person id="card_21f65b1147b3">
+    <attributes>
+      <attribute name="subpopulation" class="java.lang.String">student</attribute>
+    </attributes>
+    <plan selected="yes">
+      <activity type="home" link="128048" x="553472.6810693025" y="8563316.016107546" end_time="06:09:51" />
+      <leg mode="pt" />
+      <activity type="school" link="122154" x="553006.9384527929" y="8564650.438620724" />
+    </plan>
+  </person>
+  <person id="card_3dc5c35c0157">
+    <attributes>
+      <attribute name="subpopulation" class="java.lang.String">student</attribute>
+    </attributes>
+    <plan selected="yes">
+      <activity type="home" link="122154" x="553006.9384527929" y="8564650.438620724" end_time="05:21:17" />
+      <leg mode="pt" />
+      <activity type="school" link="106757" x="555282.8623118894" y="8563243.161450136" />
+    </plan>
+  </person>
+  <person id="card_3ef9fdc29d20">
+    <attributes>
+      <attribute name="subpopulation" class="java.lang.String">student</attribute>
+    </attributes>
+    <plan selected="yes">
+      <activity type="home" link="17980" x="553165.8622821138" y="8561670.898643356" end_time="06:40:52" />
+      <leg mode="pt" />
+      <activity type="school" link="122154" x="553006.9384527929" y="8564650.438620724" />
+    </plan>
+  </person>
+  <person id="card_43501c8635bb">
+    <attributes>
+      <attribute name="subpopulation" class="java.lang.String">student</attribute>
+    </attributes>
+    <plan selected="yes">
+      <activity type="home" link="78785" x="552241.6372906796" y="8562716.998377785" end_time="06:43:37" />
+      <leg mode="pt" />
+      <activity type="school" link="122154" x="553006.9384527929" y="8564650.438620724" />
+    </plan>
+  </person>
+  <person id="card_49698f1994f8">
+    <attributes>
+      <attribute name="subpopulation" class="java.lang.String">non-student</attribute>
+    </attributes>
+    <plan selected="yes">
+      <activity type="home" link="128048" x="553472.6810693025" y="8563316.016107546" end_time="06:22:05" />
+      <leg mode="pt" />
+      <activity type="school" link="102933" x="553770.8683613627" y="8563909.639424099" />
+    </plan>
+  </person>
+  <person id="card_4ea099db2557">
+    <attributes>
+      <attribute name="subpopulation" class="java.lang.String">non-student</attribute>
+    </attributes>
+    <plan selected="yes">
+      <activity type="home" link="62643" x="557396.3554605963" y="8561417.21158553" end_time="06:05:44" />
+      <leg mode="pt" />
+      <activity type="school" link="119628" x="557114.2026777645" y="8561601.943893926" />
+    </plan>
+  </person>
+  <person id="card_51db7f570401">
+    <attributes>
+      <attribute name="subpopulation" class="java.lang.String">non-student</attribute>
+    </attributes>
+    <plan selected="yes">
+      <activity type="home" link="11031" x="550987.1721484323" y="8562397.774398392" end_time="05:59:25" />
+      <leg mode="pt" />
+      <activity type="school" link="122154" x="553006.9384527929" y="8564650.438620724" />
+    </plan>
+  </person>
+  <person id="card_59b0233ce8c2">
+    <attributes>
+      <attribute name="subpopulation" class="java.lang.String">non-student</attribute>
+    </attributes>
+    <plan selected="yes">
+      <activity type="home" link="40626" x="554704.4902224566" y="8563228.914447183" end_time="06:56:52" />
+      <leg mode="pt" />
+      <activity type="school" link="106757" x="555282.8623118894" y="8563243.161450136" />
+    </plan>
+  </person>
+  <person id="card_662831d741df">
+    <attributes>
+      <attribute name="subpopulation" class="java.lang.String">student</attribute>
+    </attributes>
+    <plan selected="yes">
+      <activity type="home" link="35579" x="556552.2241499468" y="8561497.422597757" end_time="06:42:46" />
+      <leg mode="pt" />
+      <activity type="school" link="139739" x="555275.8595040385" y="8561398.443663832" />
+    </plan>
+  </person>
+  <person id="card_7818d2c4d8c0">
+    <attributes>
+      <attribute name="subpopulation" class="java.lang.String">non-student</attribute>
+    </attributes>
+    <plan selected="yes">
+      <activity type="home" link="120231" x="551045.3275792389" y="8561856.621840406" end_time="06:18:10" />
+      <leg mode="pt" />
+      <activity type="school" link="109399" x="551632.0572624833" y="8562818.760156749" />
+    </plan>
+  </person>
+  <person id="card_858a84ac729c">
+    <attributes>
+      <attribute name="subpopulation" class="java.lang.String">non-student</attribute>
+    </attributes>
+    <plan selected="yes">
+      <activity type="home" link="129047" x="553579.8441434391" y="8562897.8420925" end_time="05:42:22" />
+      <leg mode="pt" />
+      <activity type="school" link="122154" x="553006.9384527929" y="8564650.438620724" />
+    </plan>
+  </person>
+  <person id="card_86848cd1a5dc">
+    <attributes>
+      <attribute name="subpopulation" class="java.lang.String">non-student</attribute>
+    </attributes>
+    <plan selected="yes">
+      <activity type="home" link="17980" x="553165.8622821138" y="8561670.898643356" end_time="06:10:17" />
+      <leg mode="pt" />
+      <activity type="school" link="122154" x="553006.9384527929" y="8564650.438620724" />
+    </plan>
+  </person>
+  <person id="card_88db227e5328">
+    <attributes>
+      <attribute name="subpopulation" class="java.lang.String">student</attribute>
+    </attributes>
+    <plan selected="yes">
+      <activity type="home" link="24870" x="555671.7580128214" y="8564281.65671649" end_time="06:10:26" />
+      <leg mode="pt" />
+      <activity type="school" link="122154" x="553006.9384527929" y="8564650.438620724" />
+    </plan>
+  </person>
+  <person id="card_97c6af7bdbbb">
+    <attributes>
+      <attribute name="subpopulation" class="java.lang.String">student</attribute>
+    </attributes>
+    <plan selected="yes">
+      <activity type="home" link="11031" x="550987.1721484323" y="8562397.774398392" end_time="06:42:26" />
+      <leg mode="pt" />
+      <activity type="school" link="92141" x="552020.9743961489" y="8563945.47185461" />
+    </plan>
+  </person>
+  <person id="card_a977bf3dc38a">
+    <attributes>
+      <attribute name="subpopulation" class="java.lang.String">non-student</attribute>
+    </attributes>
+    <plan selected="yes">
+      <activity type="home" link="17980" x="553165.8622821138" y="8561670.898643356" end_time="06:42:54" />
+      <leg mode="pt" />
+      <activity type="school" link="122154" x="553006.9384527929" y="8564650.438620724" />
+    </plan>
+  </person>
+  <person id="card_b151a0be4739">
+    <attributes>
+      <attribute name="subpopulation" class="java.lang.String">student</attribute>
+    </attributes>
+    <plan selected="yes">
+      <activity type="home" link="42622" x="552195.800632126" y="8564293.710394645" end_time="06:31:57" />
+      <leg mode="pt" />
+      <activity type="school" link="122154" x="553006.9384527929" y="8564650.438620724" />
+    </plan>
+  </person>
+  <person id="card_cca1594c5edd">
+    <attributes>
+      <attribute name="subpopulation" class="java.lang.String">non-student</attribute>
+    </attributes>
+    <plan selected="yes">
+      <activity type="home" link="24870" x="555671.7580128214" y="8564281.65671649" end_time="06:10:26" />
+      <leg mode="pt" />
+      <activity type="school" link="132215" x="555007.0416366253" y="8564131.4306114" />
+    </plan>
+  </person>
+  <person id="card_d6f703dfa6d0">
+    <attributes>
+      <attribute name="subpopulation" class="java.lang.String">non-student</attribute>
+    </attributes>
+    <plan selected="yes">
+      <activity type="home" link="77598" x="553915.3012923375" y="8562239.81188903" end_time="06:49:01" />
+      <leg mode="pt" />
+      <activity type="school" link="119628" x="557114.2026777645" y="8561601.943893926" />
+    </plan>
+  </person>
+  <person id="card_d9ea555eadd1">
+    <attributes>
+      <attribute name="subpopulation" class="java.lang.String">student</attribute>
+    </attributes>
+    <plan selected="yes">
+      <activity type="home" link="78785" x="552241.6372906796" y="8562716.998377785" end_time="06:53:45" />
+      <leg mode="pt" />
+      <activity type="school" link="122154" x="553006.9384527929" y="8564650.438620724" />
+    </plan>
+  </person>
+  <person id="card_e0bf8293a988">
+    <attributes>
+      <attribute name="subpopulation" class="java.lang.String">non-student</attribute>
+    </attributes>
+    <plan selected="yes">
+      <activity type="home" link="11031" x="550987.1721484323" y="8562397.774398392" end_time="05:59:25" />
+      <leg mode="pt" />
+      <activity type="school" link="122154" x="553006.9384527929" y="8564650.438620724" />
+    </plan>
+  </person>
+  <person id="card_ea5e479563cb">
+    <attributes>
+      <attribute name="subpopulation" class="java.lang.String">student</attribute>
+    </attributes>
+    <plan selected="yes">
+      <activity type="home" link="103606" x="552635.6204385683" y="8564101.770491678" end_time="06:47:18" />
+      <leg mode="pt" />
+      <activity type="school" link="109034" x="552329.1735554449" y="8564377.72635051" />
+    </plan>
+  </person>
+  <person id="card_eb4022f1f94a">
+    <attributes>
+      <attribute name="subpopulation" class="java.lang.String">non-student</attribute>
+    </attributes>
+    <plan selected="yes">
+      <activity type="home" link="7384" x="553515.4607168823" y="8562976.223552637" end_time="06:46:45" />
+      <leg mode="pt" />
+      <activity type="school" link="63900" x="555471.6248613179" y="8561243.013429673" />
+    </plan>
+  </person>
+</population>

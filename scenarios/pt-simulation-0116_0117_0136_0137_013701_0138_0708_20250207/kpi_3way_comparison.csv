@@ -1,0 +1,9 @@
+﻿indicador,realidade,sim_base,sim_exp
+Passageiros únicos,"2,249","2,222","2,222"
+Embarques totais (legs),"2,861","2,815","2,700"
+Embarques linha 0137,584,538,0
+Tempo médio viagem (min) [porta-a-porta],84.5,84.5,87.0
+Tempo médio viagem (min) [só no ônibus],12.6,12.6,11.9
+Mediana tempo viagem [só no ônibus] (min),11.1,11.6,11.1
+Espera média na parada (min),N/A,1.1,1.4
+Passageiros sem PT (caminhada),N/A,0,103
